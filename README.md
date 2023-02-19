@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=elshod1018&label=Profile%20views&color=0e75b6&style=flat" alt="elshod1018" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=elshod1018" alt="elshod1018" /></a> </p>
-<p>About me</p><br>
+<p>About me</p>
 💻 I am Java backend and Database developer.<br>
 📝 I have a strong interest in Java backend development and Cloud Computing<br>
 🌱 Learning about Computer Vision and Machine Learning stuff<br>
