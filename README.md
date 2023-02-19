@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=elshod1018" alt="elshod1018" /></a> </p>
 <p>About me</p><br>
-💻 I am Java backend and Database developer.
-📝 I have a strong interest in Java backend development and Cloud Computing
-🌱 Learning about Computer Vision and Machine Learning stuff
-🌟 Main languages: Java, C++
-📫 How to reach me **nuriddinovelshod2003@gmail.com**
+💻 I am Java backend and Database developer.<br>
+📝 I have a strong interest in Java backend development and Cloud Computing<br>
+🌱 Learning about Computer Vision and Machine Learning stuff<br>
+🌟 Main languages: Java, C++<br>
+📫 How to reach me **nuriddinovelshod2003@gmail.com**<br>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
