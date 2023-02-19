@@ -4,12 +4,12 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=elshod1018&label=Profile%20views&color=0e75b6&style=flat" alt="elshod1018" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=elshod1018" alt="elshod1018" /></a> </p>
-
-- 🌱 I’m currently learning **Spring boot**
-
-- 💬 Ask me about **java,database**
-
-- 📫 How to reach me **nuriddinovelshod2003@gmail.com**
+<p>About me</p><br>
+💻 I am Java backend and Database developer.
+📝 I have a strong interest in Java backend development and Cloud Computing
+🌱 Learning about Computer Vision and Machine Learning stuff
+🌟 Main languages: Java, C++
+📫 How to reach me **nuriddinovelshod2003@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
