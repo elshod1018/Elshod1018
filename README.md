@@ -1,100 +1,127 @@
-<h1 align="center">Hi 👋, I'm Elshod Nuriddinov</h1>
-<h3 align="center">A passionate java backend and Database developer from Uzbekistan</h3>
+<h1 align="center">
+	<img src="https://readme-typing-svg.demolab.com/?lines=Hi, I'm Elshod;Welcome+to+my+GitHub+Profile!">
+</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=elshod1018&label=Profile%20views&color=0e75b6&style=flat" alt="elshod1018" /> </p>
+<div align="center"><img alt="Coder GIF" height=250 width=350 src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/ke17ZwdGBToddI8pDm48kPoswlzjSVMM-SxOp7CV59BZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PI6FXy8c9PWtBlqAVlUS5izpdcIXDZqDYvprRqZ29Pw0o/coding-freak.gif"/> </div>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=elshod1018" alt="elshod1018" /></a> </p>
-<p>About me</p>
-💻 I am Java backend and Database developer.<br>
-📝 I have a strong interest in Java backend development and Cloud Computing<br>
-🌱 Learning about Computer Vision and Machine Learning stuff<br>
-🌟 Main languages: Java, C++<br>
-📫 How to reach me **nuriddinovelshod2003@gmail.com**<br>
+<br>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/elshod-nuriddidov-977631259" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="elshod-nuriddidov-977631259" height="30" width="40" />
-  </a>
-  
-<a href="https://fb.com/elshod1018" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"          alt="elshod1018" height="30" width="40" />
-</a>
-  
-<a href="https://instagram.com/elshod1018" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"        alt="elshod1018" height="30" width="40" />
-</a>
-  
-<a href="https://www.hackerrank.com/nuriddinovelsho1" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg"        alt="nuriddinovelsho1" height="30" width="40" />
- </a> 
-<a href="https://www.leetcode.com/elshod_10_18" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg"        alt="elshod_10_18" height="30" width="40" />
-</a>
-</p>
+### 📖 About me
 
-<h3 align="left">Languages and Tools:</h3>
+<hr>
+<pre>
+💻 I am Java backend and Database developer.
+📝 I have a strong interest in Java backend development and Cloud Computing
+🌱 Learning about Computer Vision and Machine Learning stuff
+🌟 Main languages: Java, C++
+</pre>
+<hr>
+
+<h3 align="center">Connect with me:</h3>
+<div align="center">
+
+[![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elshod-nuriddidov-977631259/)
+[![image](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/e_nuriddinov_)
+[![image](https://img.shields.io/badge/Telegram-26A5E4.svg?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Elshod_10_18)
+
+</div>
+
+## 🛠️ My Skills
+
+### 👉 Programming languages
+
 <p align="left"> 
-   <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
+  <a href="https://isocpp.org/">
+    <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
   </a>
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> 
-  </a>
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-  </a> 
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
-  </a> 
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
-  </a> 
- 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-  </a>
-  <a href="https://www.oracle.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> 
-  </a>
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
-  </a> 
-  <a href="https://postman.com" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> 
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  </a> 
-  <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/>
-  </a>
-  <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> 
+&emsp;
+
+<a href="https://www.java.com/en/">
+    <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
   </a>
 </p>
+
+### 👉 Databases & Cloud Hosting
 
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=elshod1018&show_icons=true&locale=en&layout=compact" alt="elshod1018" />
+	<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />&nbsp;&nbsp;
+	<img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />&nbsp;&nbsp;
+	<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />&nbsp;&nbsp;
+	<img src="https://img.shields.io/badge/GitLab%20-%23F7DF1E.svg?&style=for-the-badge&color=FC6D26" />&nbsp;&nbsp;
+ </p>
+
+### 👉 Software & Tools
+
+ <p>
+
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" />&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/HTML%20-%23F7DF1E.svg?&style=for-the-badge&color=E34F26" />&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/css%20-%23F7DF1E.svg?&style=for-the-badge&color=5BA8EE" />&nbsp;&nbsp;
+
+
 </p>
 
-<p>&nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=elshod1018&show_icons=true&locale=en" alt="elshod1018" />
-</p>
+## 📘 My top open source projects
 
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=elshod1018&" alt="elshod1018" />
-</p>
+<table>
+  <thead align="center">
+    <tr border: none;>
+      <td><b>📘 Project</b></td>
+<!--       <td><b>⭐ Stars</b></td>
+      <td><b>🤝 Forks</b></td> -->
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="https://github.com/elshod1018/test_system_bot"><b>test-system-bot</b></a></td>
+    </tr> 
+    <tr>
+      <td><a href="https://github.com/elshod1018/faker_bot"><b>faker_bot</b></a></td>
+    </tr>
+       <tr>
+      <td><a href="https://github.com/elshod1018/jakartaee_online_library"><b>jakartaee_online_library</b></a></td>
+    </tr> 
+    <tr>
+      <td><a href="https://github.com/elshod1018/user_crud_postgresql"><b>user_crud with postgresql</b></a></td>
+    </tr>
+  </tbody>
+</table>
+<br>
+
+### :fire: My Github Stats :
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=elshod1018&stroke=EB5454" alt="Elshod Nuriddinov" /></p>
+
+
+   <p align="center">
+          <a href="https://github.com/elshod1018/">
+          <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=elshod1018&theme=gruvbox&hide_border=true" />
+          <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=elshod1018&theme=gruvbox&hide_border=true" />
+          </a>
+       </p>
+
+<p align="center">
+        <a href="https://github.com/elshod1018/">
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elshod1018&langs_count=6&theme=gruvbox&layout=compact&hide_border=true"
+          alt="1999AZZAR :: overall Top Langs " /></a>
+      </p>
+
+ <p align="center">
+          <a href="https://github.com/elshod1018/">
+          <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=elshod1018&theme=gruvbox&layout=compact&hide_border=true"
+          alt="1999AZZAR :: Top Langs by repo" />
+          <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=elshod1018&theme=gruvbox&layout=compact&hide_border=true"
+          alt="1999AZZAR :: Top Langs by commit" />
+          </a>
+        </p>
+
+</div>
+
+
+<div>
+     <h1 align="center">
+	<img src="https://readme-typing-svg.demolab.com/?lines=Thanks+For+Visiting!">
+</h1>
+</div>
