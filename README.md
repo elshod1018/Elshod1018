@@ -75,7 +75,7 @@
   </thead>
   <tbody>
     <tr>
-      <td><a href="https://github.com/elshod1018/quizlet-app"><b>test-system-bot</b></a></td>
+      <td><a href="https://github.com/elshod1018/quizlet-app"><b>Quizlet-app</b></a></td>
     </tr>
 	  <tr>
       <td><a href="https://github.com/elshod1018/jakartaee_online_library"><b>jakartaee_online_library</b></a></td>
